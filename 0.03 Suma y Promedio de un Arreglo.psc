@@ -3,8 +3,8 @@
 // Ejercicio 0.3 
 // Suma y Promedio de un Arreglo
 
-// Crea un arreglo unidimensional con un tamaño de 5 (números reales), 
-// pregúntale al usuario los valores y 
+// Crea un arreglo unidimensional con un tamaÃ±o de 5 (nÃºmeros reales), 
+// pregÃºntale al usuario los valores y 
 // calcula la suma y promedio de todos ellos.
 
 
