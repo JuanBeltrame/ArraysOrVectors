@@ -3,9 +3,9 @@
 // Ejercicio 0.8
 // Determinar el orden de un arreglo
 
-// Leer por teclado una serie de 5 números reales. 
-// El programa debe indicarnos si los números están ordenados 
-// de forma creciente, decreciente, o si están desordenados.
+// Leer por teclado una serie de 5 nÃºmeros reales. 
+// El programa debe indicarnos si los nÃºmeros estÃ¡n ordenados 
+// de forma creciente, decreciente, o si estÃ¡n desordenados.
 
 Proceso principal
 	
