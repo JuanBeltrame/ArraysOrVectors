@@ -6,7 +6,7 @@
 // Crea un arreglo unidimensional con "N" caracteres, 
 // lee los elementos por teclado, 
 // guardarlos en el arreglo y 
-// muéstralos en el orden inverso al introducido. 
+// muÃ©stralos en el orden inverso al introducido. 
 
 Proceso principal 
 	// Definir el arreglo, variables e iteradores
