@@ -1,12 +1,12 @@
 // Arreglos: 
 // Arreglos Unidimensionales: 
 // Ejercicio 0.6
-// Hallar el número mayor y menor de un arreglo
+// Hallar el nÃºmero mayor y menor de un arreglo
 
-// Crea un arreglo unidimensional con "N" números, 
+// Crea un arreglo unidimensional con "N" nÃºmeros, 
 // lee los elementos por teclado, guardarlos en el arreglo, 
-// calcula cuál de los números es el mayor de todos 
-// y además cuál es el menor de todos.
+// calcula cuÃ¡l de los nÃºmeros es el mayor de todos 
+// y ademÃ¡s cuÃ¡l es el menor de todos.
 
 Proceso principal
 	// Definir el arreglo, variables e iteradores
