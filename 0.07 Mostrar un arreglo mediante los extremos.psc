@@ -3,9 +3,9 @@
 // Ejercicio 0.7
 // Mostrar un arreglo mediante los extremos
 
-// Leer 8 números enteros dentro de un arreglo. 
+// Leer 8 nÃºmeros enteros dentro de un arreglo. 
 // Debemos mostrarlos en el siguiente orden: 
-// el primero, el último, el segundo, el penúltimo, el tercero, etc.
+// el primero, el Ãºltimo, el segundo, el penÃºltimo, el tercero, etc.
 
 Proceso principal
 	// Definir el arreglo, variables e iteradores
