@@ -1,12 +1,12 @@
 // Arreglos: 
 // Arreglos Unidimensionales: 
 // Ejercicio 0.9
-// Desplazar una posición en un arreglo
+// Desplazar una posiciÃ³n en un arreglo
 
-// Crear un programa que lea por teclado un arreglo de 6 números y 
-// la desplace una posición hacia abajo: 
-// el primero pasa a ser el segundo, el segundo pasa a ser el tercero y así sucesivamente. 
-// El último pasa a ser el primero. 
+// Crear un programa que lea por teclado un arreglo de 6 nÃºmeros y 
+// la desplace una posiciÃ³n hacia abajo: 
+// el primero pasa a ser el segundo, el segundo pasa a ser el tercero y asÃ­ sucesivamente. 
+// El Ãºltimo pasa a ser el primero. 
 
 Proceso principal
 	
