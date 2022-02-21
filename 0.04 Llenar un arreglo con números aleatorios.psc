@@ -1,10 +1,10 @@
 // Arreglos: 
 // Arreglos Unidimensionales: 
 // Ejercicio 0.4 
-// Llenar un arreglo con números aleatorios
+// Llenar un arreglo con nÃºmeros aleatorios
 
-// Crear un arreglo unidimensional donde el usuario indique el tamaño por teclado, 
-// luego llenar el arreglo con números aleatorios entre 1 - 100 
+// Crear un arreglo unidimensional donde el usuario indique el tamaÃ±o por teclado, 
+// luego llenar el arreglo con nÃºmeros aleatorios entre 1 - 100 
 // y por ultimo mostrar los elementos del arreglo.
 
 Proceso principal
